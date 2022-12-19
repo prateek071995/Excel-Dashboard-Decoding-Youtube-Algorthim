@@ -24,7 +24,19 @@ Project start
 
 - DATA ANALYSIS ( Individually)
 
---
+- - Discussion on cleaned data to genrate busniess questions - everyquestion is given level accordingly how they can solve the project main focus.
+- - sorting and taking top 10 question which directly deal with busniess problem.
+- - these question are addressed based on data and anlysis are done to genrate insghits .
+
+- DATA VISVALIZATION ( Individually )
+
+- - After genrating those meaningfull insights , task is to present them in most appopiate way.
+- - excel dashboard is created to visvalize them and understand the insights to give a solution for the busniess problem
+
+- PRESENTATION ( Individually )
+
+- - after excel dashboard is ready with insight to present the solution to case staements, presented the finding to the stakeholders
+- - explaning what is the goal and how to acheive it based on data .
 
 
 
